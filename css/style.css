@@ -1,0 +1,51 @@
+#pattern{
+    background-image: url(../imgs/pattern.png)  ;
+    background-color: aqua;
+    background-size: contai;
+     width: auto;
+    height: 130px;
+}
+
+#blue1{color: blue;}
+
+#small1{
+    font-size: x-small;
+}
+
+
+
+#und-photo{
+    box-sizing: border-box;
+    font-weight: lighter;
+    font-size: xx-small;
+    
+
+}
+
+#table{
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: left;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #c1f3f7;
+  }
+
+#dark-blu{
+    background-color: aqua;
+}
+
+#white{
+    color: white;
+}
+
+#pgray{
+    color: gray;
+}
+
+#phfinali{
+
+}
